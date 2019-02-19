@@ -13,5 +13,3 @@ Voici quelques ressources pour découvrir le serveur créatif.
 
 {% embed url="https://play-mc.fr/forum/d/637-un-nouveau-serveur-d-di-vanilla-cr-atif" caption="Présentation du serveur sur le forum" %}
 
-test
-
