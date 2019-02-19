@@ -5,7 +5,8 @@ Cette partie du tutoriel est disponible en vidéo \(réalisée par le joueur Cle
 {% embed url="https://www.youtube.com/embed/R3DS8IT8Cio" %}
 
 Et si vous préférez lire , c'est par ici :  
-  
+
+# Le claim :
 Une zone protégée est appelée « claim ».
 
 ![](../.gitbook/assets/claim1.jpg)
@@ -26,36 +27,26 @@ La pelle en or sert à redimensionner une zone protégée :
 
 Mais encore, prendre votre pelle « en main » vous indiquera le nombre de blocs disponibles pour vos claims futurs.
 
+# La protection :
 La protection du claim est effective de 5 blocs sous le coffre jusqu'au ciel. Celle-ci s’étend automatiquement vers le bas lorsque vous creusez dans votre claim et posez un bloc au fond. Vous pouvez évidemment vérifier à chaque instant la protection avec un bâton.
 
-Par défaut, dans vos zones, un joueur ne pourra pas :
+## Par défaut, dans vos zones, un joueur ne pourra pas :
+- Détruire et/ou brûler les blocs d’une manière ou d’une autre.
+- Ouvrir les coffres, fournaises, tables de craft, stand d’alchimie, table d’enchantement, portillon …
+- Utiliser les boutons et les leviers.
+- Tuer, tondre vos animaux.
+- Récupérer l’eau.
+- Saccager ou récolter vos plantes.
+- Inonder, remplir de lave et exploser votre zone.
 
--Détruire et/ou brûler les blocs d’une manière ou d’une autre.
+## Mais il pourra :
+- Ouvrir vos portes en bois et vos trappes.
+- Utiliser les plaques de pression \(ainsi que les boutons en bois à l'aide d'un arc\).
+- Marcher dans votre zone.
+- Attirer vos animaux hors de votre zone.
 
--Ouvrir les coffres, fournaises, tables de craft, stand d’alchimie, table d’enchantement, portillon …
-
--Utiliser les boutons et les leviers.
-
--Tuer, tondre vos animaux.
-
--Récupérer l’eau.
-
--Saccager ou récolter vos plantes.
-
--Inonder, remplir de lave et exploser votre zone.
-
-Mais il pourra:
-
--Ouvrir vos portes en bois et vos trappes.
-
--Utiliser les plaques de pression \(ainsi que les boutons en bois à l'aide d'un arc\).
-
--Marcher dans votre zone.
-
--Attirer vos animaux hors de votre zone.
-
+# Les commandes spécifiques:
 Voici une petite liste de commandes possibles pour vos claims:
-
 - `/AbandonClaim` : Supprime la zone protégée sur laquelle vous êtes 
 - `/AbandonAllClaims` : Supprime toutes vos zones protégées 
 - `/Trust [pseudo]` : Permet de donner les permissions à un autre joueur 
@@ -69,12 +60,12 @@ Des précisions sur les autorisations et subdivide-claims, par HellOfDevil, sont
 
 Maintenant que votre zone est protégée, vous pouvez y construire votre maison en toute sécurité.
 
+# Retrouver votre maison :
 Pensez à utiliser la commande `/sethome` pour définir un « chez soi » et vous donner l’opportunité de vous téléporter à cet endroit avec la commande `/home`.
 
 Attention, l’utilisation du `/home` est bridée à une fois par demi-heure. De plus, notez qu’il n’existe pas de commande `/spawn` ou encore `/warp` par exemple.
 
-Autres commandes utiles :
-
+# Commandes utiles :
 - `/t [pseudo] [message]` : Envoie un message privé à un joueur. \(fonctionne aussi avec: /w /msg /m\) 
 - `/r` : Réponds au dernier message privé. 
 - `/helpop [message]` : Demandez l'assistance des modérateurs en ligne actuellement. 
