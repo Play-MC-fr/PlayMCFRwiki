@@ -1,4 +1,4 @@
-# Protéger votre terrain
+# Protéger votre terrain :
 
 Cette partie du tutoriel est disponible en vidéo \(réalisée par le joueur ClemW\), vous en avez de la chance !
 
