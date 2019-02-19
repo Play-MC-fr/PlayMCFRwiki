@@ -56,14 +56,14 @@ Mais il pourra:
 
 Voici une petite liste de commandes possibles pour vos claims:
 
-`/AbandonClaim` : Supprime la zone protégée sur laquelle vous êtes 
-`/AbandonAllClaims` : Supprime toutes vos zones protégées 
-`/Trust \[pseudo\]` : Permet de donner les permissions à un autre joueur 
-`/Untrust \[pseudo\]` : Retire les permissions 
-`/Accesstrust \[pseudo\]` : Donne la permission d'utiliser les boutons, leviers et lits 
-`/ContainerTrust \[pseudo\]` : Donne l'accès aux coffres, aux animaux, aux établis 
-`/TrustList` : Liste les permissions pour la zone sur laquelle vous êtes 
-`/Permissiontrust` : Donne le droit à un joueur d'utiliser les commandes ci-dessus sur votre parcelle : à utiliser avec précautions
+- `/AbandonClaim` : Supprime la zone protégée sur laquelle vous êtes 
+- `/AbandonAllClaims` : Supprime toutes vos zones protégées 
+- `/Trust \[pseudo\]` : Permet de donner les permissions à un autre joueur 
+- `/Untrust \[pseudo\]` : Retire les permissions 
+- `/Accesstrust \[pseudo\]` : Donne la permission d'utiliser les boutons, leviers et lits 
+- `/ContainerTrust \[pseudo\]` : Donne l'accès aux coffres, aux animaux, aux établis 
+- `/TrustList` : Liste les permissions pour la zone sur laquelle vous êtes 
+- `/Permissiontrust` : Donne le droit à un joueur d'utiliser les commandes ci-dessus sur votre parcelle : à utiliser avec précautions
 
 Des précisions sur les autorisations et subdivide-claims, par HellOfDevil, sont disponibles [ici](https://play-mc.fr/forum/d/147-digressions-sur-les-claims-et-sous-claims).
 
@@ -75,9 +75,9 @@ Attention, l’utilisation du `/home` est bridée à une fois par demi-heure. De
 
 Autres commandes utiles :
 
-`/t \[pseudo\] \[message\]` : Envoie un message privé à un joueur. \(fonctionne aussi avec: /w /msg /m\) 
-`/r` : Réponds au dernier message privé. 
-`/helpop \[message\]` : Demandez l'assistance des modérateurs en ligne actuellement. 
-`/list` : Liste des joueurs en ligne. 
-`/mail send \[destinataire\] \[message\]` : Envoi un mail à un joueur. Il pourra le lire plus tard et sera avertis lors de sa prochaine connection. \(contrairement aux messages privés\) 
-`/suicide` : Vous téléporte au spawn , mais vous perdez évidemment inventaire et niveaux d'expérience.
+- `/t \[pseudo\] \[message\]` : Envoie un message privé à un joueur. \(fonctionne aussi avec: /w /msg /m\) 
+- `/r` : Réponds au dernier message privé. 
+- `/helpop \[message\]` : Demandez l'assistance des modérateurs en ligne actuellement. 
+- `/list` : Liste des joueurs en ligne. 
+- `/mail send \[destinataire\] \[message\]` : Envoi un mail à un joueur. Il pourra le lire plus tard et sera avertis lors de sa prochaine connection. \(contrairement aux messages privés\) 
+- `/suicide` : Vous téléporte au spawn , mais vous perdez évidemment inventaire et niveaux d'expérience.
