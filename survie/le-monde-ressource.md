@@ -4,7 +4,7 @@ Enfin vous avez certainement remarqué que le bâtiment du spawn fait également
 
 ![](https://play-mc.fr/img/guide/spawn1.jpg)
 
-Le monde ressource:
+Le portail menant monde ressource:
 
 ![](https://play-mc.fr/img/guide/spawn3.jpg)
 
@@ -16,7 +16,7 @@ Le monde ressource:
 
 {% hint style="info" %} Le portail est généralement activé uniquement pendant les évènements {% endhint %}
 
-### Merci pour votre attention !
+# Merci pour votre attention !
 
 Maintenant que vous connaissez les us et coutumes, rejoignez-nous au plus vite!
 **IP serveur Survie : vanilla.play-mc.fr**
