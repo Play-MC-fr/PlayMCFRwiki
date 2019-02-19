@@ -2,8 +2,9 @@
 
 ## BONJOUR !
 
-Moi c’est Sirlinium et je vous souhaite la bienvenue au nom de l'ensemble du staff !   
-Voici donc un guide pour les nouveaux venus sur l'un de nos serveurs !
+Le staff et les joueurs de play-mc.fr vous souhaitent la bienvenue !
+
+Vous trouverez ici toutes les informations pour débuter de nouvelles aventures avec nous !
 
 
-
+N'hésite plus, passe à l'étape suivante pour choisir le serveur qui te conviendra le mieux...
