@@ -3,7 +3,7 @@
 * [Bien débuter](README.md)
 * [Quel serveur choisir ?](quel-serveur-choisir.md)
 
-## SURVIE
+## Serveur SURVIE
 
 * [Généralités](survie/generalites.md)
 * [Règles](survie/regles.md)
@@ -12,12 +12,12 @@
 * [Protéger votre terrain](survie/proteger-votre-terrain.md)
 * [Le monde ressource](survie/le-monde-ressource.md)
 
-## CREATIF
+## Serveur SCREATIF
 
 * [Généralités](creatif/generalites.md)
 * [Règles](creatif/regles.md)
 
-## HARDCORE
+## Serveur SHARDCORE
 
 * [Généralités](hardcore/generalites.md)
 * [Règles](hardcore/regles.md)
@@ -26,6 +26,6 @@
 
 * [Forum](https://play-mc.fr/forum)
 * [Discord](https://discord.gg)
-* [Dynmap](http://map.play-mc.fr)
+* [Dynmap Survie](http://map.play-mc.fr)
 * [mTxServ](https://mtxserv.com/fr/)
 
