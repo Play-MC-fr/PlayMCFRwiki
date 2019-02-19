@@ -12,7 +12,7 @@
 * [Protéger votre terrain](survie/proteger-votre-terrain.md)
 * [Le monde ressource](survie/le-monde-ressource.md)
 
-## Serveur SCREATIF
+## Serveur CREATIF
 
 * [Généralités](creatif/generalites.md)
 * [Règles](creatif/regles.md)
