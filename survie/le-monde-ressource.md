@@ -14,7 +14,7 @@ Le monde ressource:
 
 ![](https://play-mc.fr/img/guide/spawn4.jpg)
 
-{% hint style="info" %} Le portail peut être désactivé pendant les périodes d'inactivité {% endhint %}
+{% hint style="info" %} Le portail est généralement activé uniquement pendant les évènements {% endhint %}
 
 ### Merci pour votre attention !
 
