@@ -14,9 +14,9 @@ Le monde ressource:
 
 ![](https://play-mc.fr/img/guide/spawn4.jpg)
 
-/!\Le portail peut être désactivé pendant les périodes d'inactivité/!\
+{% hint style="info" %} Le portail peut être désactivé pendant les périodes d'inactivité {% endhint %}
 
 ### Merci pour votre attention !
 
 Maintenant que vous connaissez les us et coutumes, rejoignez-nous au plus vite!
-
+**IP serveur Survie : vanilla.play-mc.fr**
