@@ -19,4 +19,5 @@ Le portail menant monde ressource:
 # Merci pour votre attention !
 
 Maintenant que vous connaissez les us et coutumes, rejoignez-nous au plus vite!
+
 **IP serveur Survie : vanilla.play-mc.fr**
