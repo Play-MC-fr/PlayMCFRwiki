@@ -7,7 +7,7 @@ Nous vous proposons trois serveurs aux univers différents mais respectant toujo
 
 Notre serveur principal et historique est le serveur **Survie** vanilla. 
 Celui-ci propose un gameplay au plus proche du jeu de base mais en multi-joueurs. Un plugin de claims (griefprevention) est en place afin de permettre la protection des biens et constructions des joueurs.
-Pour plus de précisions sur le serveur survie : {% page-ref page="survie/generalites.md" %}
+Pour plus de précisions sur le serveur survie : {% page-ref page="survie" %}
 
 Notre serveur **Hardcore** propose un retour au bon vieux temps où la survie est un combat de tous les jours. 
 Ce serveur permets le PVP et un tempban de 15 minutes lors d’une mort sont en place. 
