@@ -11,7 +11,7 @@ Notre serveur principal et historique est le serveur **Survie** vanilla. Celui-c
 
 Notre serveur **Hardcore** propose un retour au bon vieux temps où la survie est un combat de tous les jours. Ce serveur permets le PVP et un tempban de 15 minutes lors d’une mort sont en place. Plus de détails ? Pour le hardcore, c'est par ici :
 
-{% page-ref page="serveur-shardcore/generalites.md" %}
+{% page-ref page="serveur-hardcore/generalites.md" %}
 
 Notre serveur **Créatif** quand à lui propose aux joueurs de disposer des outils du mode créatif de minecraft mais en multijoueurs. Pas de plots attitré mais le même système de claim à disposition. Pour ce qui est du créatif, c'est par là :
 
