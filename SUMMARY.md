@@ -5,22 +5,22 @@
 
 ## Serveur SURVIE
 
-* [Généralités](survie/generalites.md)
-* [Règles](survie/regles.md)
-* [Acquérir vos premières ressources](survie/acquerir-vos-premieres-ressources.md)
-* [Où vous installer](survie/ou-vous-installer.md)
-* [Protéger votre terrain](survie/proteger-votre-terrain.md)
-* [Le monde ressource](survie/le-monde-ressource.md)
+* [Généralités](serveur-survie/generalites.md)
+* [Règles](serveur-survie/regles.md)
+* [Acquérir vos premières ressources](serveur-survie/acquerir-vos-premieres-ressources.md)
+* [Où vous installer](serveur-survie/ou-vous-installer.md)
+* [Protéger votre terrain](serveur-survie/proteger-votre-terrain.md)
+* [Le monde ressource](serveur-survie/le-monde-ressource.md)
 
 ## Serveur CREATIF
 
-* [Généralités](creatif/generalites.md)
-* [Règles](creatif/regles.md)
+* [Généralités](serveur-creatif/generalites.md)
+* [Règles](serveur-creatif/regles.md)
 
-## Serveur SHARDCORE
+## Serveur HARDCORE
 
-* [Généralités](hardcore/generalites.md)
-* [Règles](hardcore/regles.md)
+* [Généralités](serveur-shardcore/generalites.md)
+* [Règles](serveur-shardcore/regles.md)
 
 ## LIENS UTILES
 
