@@ -22,6 +22,11 @@
 * [Généralités](serveur-shardcore/generalites.md)
 * [Règles](serveur-shardcore/regles.md)
 
+## Serveur SNAPSHOT
+
+* [Généralités](serveur-snapshot/generalites.md)
+* [Règles](serveur-snapshot/regles.md)
+
 ## LIENS UTILES
 
 * [Forum](https://play-mc.fr/forum)
