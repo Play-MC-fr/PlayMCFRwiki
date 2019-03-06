@@ -18,7 +18,7 @@
 
 ## Règle 4
 
-Respectez le paysage de nos belles snapshots.
+- Respectez le paysage de nos belles snapshots.
 
 ## Règle 5
 
