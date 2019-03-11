@@ -3,9 +3,7 @@
 * [Bien débuter](README.md)
 * [Quel serveur choisir ?](quel-serveur-choisir.md)
 
-## NOS SERVEURS
-
-### Serveur SURVIE
+## Serveur SURVIE
 * Généralités
   * [Généralités](serveur-survie/generalites.md)
   * [Règles](serveur-survie/regles.md)
@@ -15,15 +13,15 @@
   * [Le monde ressource](serveur-survie/le-monde-ressource.md)  
 * [Règles](serveur-survie/regles.md)
 
-### Serveur CREATIF
+## Serveur CREATIF
 * [Généralités](serveur-creatif/generalites.md)
 * [Règles](serveur-creatif/regles.md)
 
-### Serveur HARDCORE
+## Serveur HARDCORE
 * [Généralités](serveur-shardcore/generalites.md)
 * [Règles](serveur-shardcore/regles.md)
 
-### Serveur SNAPSHOT
+## Serveur SNAPSHOT
 * [Généralités](serveur-snapshot/generalites.md)
 * [Règles](serveur-snapshot/regles.md)
 
