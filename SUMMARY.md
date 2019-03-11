@@ -3,8 +3,10 @@
 * [Bien débuter](README.md)
 * [Quel serveur choisir ?](quel-serveur-choisir.md)
 
+----
+
 ## Serveur SURVIE
-* [informations générales et règles]
+* infos et règles
   * [Généralités](serveur-survie/generalites.md)
   * [Règles](serveur-survie/regles.md)
   * [Acquérir vos premières ressources](serveur-survie/acquerir-vos-premieres-ressources.md)
