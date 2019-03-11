@@ -5,9 +5,7 @@ Version actuelle : snapshot 1.14
 IP : snapshot.play-mc.fr
 {% endhint %}
 
-# **Il s'agit du serveur SNAPSHOT !**
 
-## Pourquoi un serveur snapshot ?
 Comme vous le savez, depuis quelques années, Mojang propose, selon un système de snapshot hebdomadaire, de découvrir et tester les nouveautés à venir lors des mises à jour du jeu. 
 Dans le respect de nos valeurs vanilla et proche du jeu de base, nous proposons d’ouvrir un nouveau serveur unique en son genre : celui-ci permettrait aux joueurs ayant acheté le jeu de pouvoir découvrir les nouveautés mais en multijoueur.
 
@@ -15,7 +13,7 @@ Dans le respect de nos valeurs vanilla et proche du jeu de base, nous proposons 
 Un serveur snapshot est toujours plus difficile à héberger car il implique une plus grande consommation des CPU et s’expose également aux difficultés liés aux instabilité des snapshot.
 Notre hébergeur MTXserver a néanmoins apprécié l’idée et à souhaité nous soutenir dans cette initiative.
 
-## Comment fonctionnera le serveur snapshot
+## Comment fonctionnera le serveur ?
 Afin de suivre les mises à jour, celui-ci verra sa map remise à zero lors de chaque modification de versions
 
 ## Quels seront les droits sur un serveur snapshot ?
