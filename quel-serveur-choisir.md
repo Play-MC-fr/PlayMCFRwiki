@@ -17,3 +17,5 @@ Notre serveur **Créatif** quand à lui propose aux joueurs de disposer des outi
 
 {% page-ref page="serveur-creatif/generalites.md" %}
 
+{% page-ref page="serveur-creatif/generalites.md" généralités serveur créatif%}
+
