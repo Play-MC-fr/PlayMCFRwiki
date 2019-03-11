@@ -12,8 +12,8 @@
 * [Le monde ressource](serveur-survie/le-monde-ressource.md)
 
 ## Serveur CREATIF
-* [Généralités](serveur-creatif/generalites.md)
-* [Règles](serveur-creatif/regles.md)
+### [Généralités](serveur-creatif/generalites.md)
+### [Règles](serveur-creatif/regles.md)
 
 ## Serveur HARDCORE
 
