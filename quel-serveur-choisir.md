@@ -17,3 +17,6 @@ Notre serveur **Créatif** quand à lui propose aux joueurs de disposer des outi
 
 {% page-ref page="serveur-creatif/generalites.md" %}
 
+Notre serveur **Créatif** quand à lui propose aux joueurs de disposer des outils du mode créatif de minecraft mais en multijoueurs. Pas de plots attitré mais le même système de claim à disposition. Pour ce qui est du créatif, c'est par là :
+
+{% page-ref page="serveur-snapshot/generalites.md" %}
