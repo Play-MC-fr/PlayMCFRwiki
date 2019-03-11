@@ -3,6 +3,8 @@
 * [Bien débuter](README.md)
 * [Quel serveur choisir ?](quel-serveur-choisir.md)
 
+--
+
 ## Serveur SURVIE
 * [Généralités](serveur-survie/generalites.md)
 * [Règles](serveur-survie/regles.md)
@@ -24,6 +26,8 @@
 
 * [Généralités](serveur-snapshot/generalites.md)
 * [Règles](serveur-snapshot/regles.md)
+
+--
 
 ## LIENS UTILES
 
