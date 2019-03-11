@@ -3,7 +3,7 @@
 * [Bien débuter](README.md)
 * [Quel serveur choisir ?](quel-serveur-choisir.md)
 
----
+# NOS SERVEURS
 
 ## Serveur SURVIE
 * Généralités
@@ -20,19 +20,17 @@
 * [Règles](serveur-creatif/regles.md)
 
 ## Serveur HARDCORE
-
 * [Généralités](serveur-shardcore/generalites.md)
 * [Règles](serveur-shardcore/regles.md)
 
 ## Serveur SNAPSHOT
-
 * [Généralités](serveur-snapshot/generalites.md)
 * [Règles](serveur-snapshot/regles.md)
 
-## LIENS UTILES
-
+# LIENS UTILES
 * [Forum](https://play-mc.fr/forum)
 * [Discord](https://discord.gg)
 * [Dynmap Survie](http://map.play-mc.fr)
 * [mTxServ](https://mtxserv.com/fr/)
+* [minecraft-france.fr](https://www.minecraft-france.fr/)
 
