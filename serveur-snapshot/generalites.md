@@ -5,6 +5,21 @@ Version actuelle : snapshot 1.14
 IP : snapshot.play-mc.fr
 {% endhint %}
 
+{% hint style="tip" %}
+Version actuelle : snapshot 1.14  
+IP : snapshot.play-mc.fr
+{% endhint %}
+
+{% hint style="danger" %}
+Version actuelle : snapshot 1.14  
+IP : snapshot.play-mc.fr
+{% endhint %}
+
+{% hint style="working" %}
+Version actuelle : snapshot 1.14  
+IP : snapshot.play-mc.fr
+{% endhint %}
+
 
 Comme vous le savez, depuis quelques années, Mojang propose, selon un système de snapshot hebdomadaire, de découvrir et tester les nouveautés à venir lors des mises à jour du jeu. 
 Dans le respect de nos valeurs vanilla et proche du jeu de base, nous proposons d’ouvrir un nouveau serveur unique en son genre : celui-ci permettrait aux joueurs ayant acheté le jeu de pouvoir découvrir les nouveautés mais en multijoueur.
