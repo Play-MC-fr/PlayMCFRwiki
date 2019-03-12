@@ -7,11 +7,11 @@ Nous vous proposons trois serveurs aux univers différents mais respectant toujo
 
 Notre serveur principal et historique est le serveur **Survie** vanilla. Celui-ci propose un gameplay au plus proche du jeu de base mais en multi-joueurs. Un plugin de claims \(griefprevention\) est en place afin de permettre la protection des biens et constructions des joueurs. Pour plus de précisions sur le serveur survie :
 
-{% page-ref page="serveur-survie/generalites.md" %}
+{% page-ref page="serveur-survie/generalites/generalites.md" %}
 
 Notre serveur **Hardcore** propose un retour au bon vieux temps où la survie est un combat de tous les jours. Ce serveur permets le PVP et un tempban de 15 minutes lors d’une mort sont en place. Plus de détails ? Pour le hardcore, c'est par ici :
 
-{% page-ref page="serveur-shardcore/generalites.md" %}
+{% page-ref page="serveur-hardcore/generalites.md" %}
 
 Notre serveur **Créatif** quand à lui propose aux joueurs de disposer des outils du mode créatif de minecraft mais en multijoueurs. Pas de plots attitré mais le même système de claim à disposition. Pour ce qui est du créatif, c'est par là :
 
@@ -20,3 +20,4 @@ Notre serveur **Créatif** quand à lui propose aux joueurs de disposer des outi
 Notre serveur **Créatif** quand à lui propose aux joueurs de disposer des outils du mode créatif de minecraft mais en multijoueurs. Pas de plots attitré mais le même système de claim à disposition. Pour ce qui est du créatif, c'est par là :
 
 {% page-ref page="serveur-snapshot/generalites.md" %}
+

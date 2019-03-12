@@ -10,15 +10,15 @@ Un certain nombre de villes sont décrites sur le forum et pourront certainement
 
 Si vous souhaitez vous installer en pleine nature, vous avez à disposition plusieurs axes pour vous éloigner: route Ouest, route Est, pont Nord et tunnel Sud.
 
-![](../.gitbook/assets/ressources4.jpg)
+![](../../.gitbook/assets/ressources4.jpg)
 
 Ou encore, pour les plus téméraires les passages rapides via le nether.
 
-![](../.gitbook/assets/ressources5.jpg)
+![](../../.gitbook/assets/ressources5.jpg)
 
 Le nether est totalement aménagé et très sécurisé. Il s’étend selon un plan précis et certaines règles :
 
-![Organisation du nether](../.gitbook/assets/nether1.png)
+![Organisation du nether](../../.gitbook/assets/nether1.png)
 
 Vous pouvez trouvez toutes les informations détaillées sur le fonctionnement du nether [ici](http://play-mc.fr/forum/d/292-organisation-du-nether).
 

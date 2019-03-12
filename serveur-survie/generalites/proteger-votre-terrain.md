@@ -12,7 +12,7 @@ Et si vous préférez lire , c'est par ici :
 
 Une zone protégée est appelée « claim ».
 
-![](../.gitbook/assets/claim1.jpg)
+![](../../.gitbook/assets/claim1.jpg)
 
 Nous utilisons un plugin de protection assez simple, mais qui demande un petit temps d'adaptation : GriefPrevention.
 
