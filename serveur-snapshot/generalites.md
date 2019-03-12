@@ -19,7 +19,7 @@ Afin de suivre les mises à jour, celui-ci verra sa map remise à zero lors de c
 
 L’accès ne serait pas soumis à une whitelist afin de pouvoir agréger et fédérer un maximum de personnes sur le serveur. Afin d’éviter les abus inhérents à un tel fonctionnement, les membres du staff seront nommés opérateurs et pourront sanctionner les joueurs si cela s’avère nécessaire.
 
-## qui dit test snapshot, dit test en créa et test en survie non ?
+## Qui dit test snapshot, dit test en créa et test en survie non ?
 
 Afin de pouvoir proposer l’ensemble des fonctions parfois nécessaires au test des nouveautés, nous mettrons en place, au spawn, deux command-block permettant à tous les joueurs de passer du mode survie au créatif et inversement. Ces command-block, en étant situés au spawn ne pourront pas être modifiés ou détériorés.
 
