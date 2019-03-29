@@ -3,7 +3,7 @@
 Si vous êtes là, c'est surement que vous ne savez pas quel serveur choisir.  
 Le plus simple reste encore d'essayer les trois. Mais voici quand même quelques informations pour vous aider à les départager.
 
-Nous vous proposons trois serveurs aux univers différents mais respectant toujours notre esprit proche du vanilla. Chacun de ces serveurs possède donc ses propres particularités.
+Nous vous proposons quatre serveurs aux univers différents mais respectant toujours notre esprit proche du vanilla. Chacun de ces serveurs possède donc ses propres particularités.
 
 Notre serveur principal et historique est le serveur **Survie** vanilla. Celui-ci propose un gameplay au plus proche du jeu de base mais en multi-joueurs. Un plugin de claims \(griefprevention\) est en place afin de permettre la protection des biens et constructions des joueurs. Pour plus de précisions sur le serveur survie :
 
