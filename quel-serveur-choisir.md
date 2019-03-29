@@ -17,7 +17,7 @@ Notre serveur **Créatif** quand à lui propose aux joueurs de disposer des outi
 
 {% page-ref page="serveur-creatif/generalites.md" %}
 
-Notre serveur **Créatif** quand à lui propose aux joueurs de disposer des outils du mode créatif de minecraft mais en multijoueurs. Pas de plots attitré mais le même système de claim à disposition. Pour ce qui est du créatif, c'est par là :
+Notre serveur **Snapshot** sera le serveur le plus vanilla de notre offre. Celui-ci est un peu particulier et est  mis à jour \(et reset\) à chaque sortie -généralement- hebdomadaire d'une snapshot minecraft. Il vous donne l'occasionde de découvrir toutes les futures implémentations du jeu mais en multijoueur ! A vous de choisir votre mode de jeu favori : creatif ou survie ?! Les informations complémentaires sont par ici : 
 
 {% page-ref page="serveur-snapshot/generalites.md" %}
 
