@@ -6,7 +6,7 @@ Il est interdit d'utiliser le chat principal ou les messages privés pour y diff
 
 ## Règle 2
 
-Les systèmes de communication ne doivent pas être utilisés pour du spam, flood \(même dans le but de résoudre un éventuel problème\), troll ou pour lancer des débats inutiles.
+Les systèmes de communication ne doivent pas être utilisés pour du spam, flood \(même dans le but de résoudre un éventuel problème\), troll ou pour lancer des débats inutiles. De même, le spoil sera très sévèrement puni. 
 
 ## Règle 3
 

@@ -3,7 +3,7 @@
 ## Règle 1
 
 * Une argumentation est toujours plus intéressante qu’une insulte. Toute atteinte à la dignité d’autrui sera passible de sanctions. De plus, tout langage vulgaire sera sujet à censure et réprimande, même dans le cas d’une blague : humour n'est pas nécessairement égal à vulgarité. 
-* Tout message à caractère sexuel, discriminatoire, violent, xénophobe, haineux ou de dénégation sera supprimé, et l’auteur se verra sanctionné. 
+* Tout message à caractère sexuel, discriminatoire, violent, xénophobe, haineux ou de dénégation sera supprimé, et l’auteur se verra sanctionné. De même, le spoil sera très sévèrement puni. 
 * Toute tentative de flamewar sera évidemment réprimandée et non tolérée. Vous devez savoir lorsque vous affichez un message pouvant attaquer autrui qu’une mauvaise réplique enchaînera une mauvaise ambiance à la discussion et au Discord.
 * Le serveur est francophone. Il est donc demandé d’y utiliser un langage français, compréhensible et, dans la mesure du possible, correctement orthographié. L’utilisation d’autres langues peut être punie par un avertissement. Le langage SMS n’étant pas considéré comme une langue, ni francophone, ni extra-terrestre, il est formellement interdit sur ce serveur.
 
