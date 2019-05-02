@@ -37,5 +37,5 @@ IP : snapshot.play-mc.fr en snapshot 1.14... Pour le moment é\_é
 
 ## J’ai des idées, des commentaires, des propositions d’amélioration...
 
-On est encore en étape “création de projet” pour le moment, donc n’hésitez surtout pas à partager vos réflexions sur le forum [https://play-mc.fr/forum](https://play-mc.fr/forum) ou via le discord [http://discord.play-mc.fr/](http://discord.play-mc.fr/)
+Nous sommes encore en étape “création de projet” pour le moment, donc n’hésitez surtout pas à partager vos réflexions sur le forum [https://play-mc.fr/forum](https://play-mc.fr/forum) ou via le discord [http://discord.play-mc.fr/](http://discord.play-mc.fr/)
 
