@@ -18,11 +18,11 @@ Toute triche et/ou comportement visant à tromper le serveur ou des joueurs est 
 
 ## Règle 5
 
-L'anti-afk ou tout abus \(redstones, entités, ...\) visant à diminuer les performances du serveur sont interdits.
+L'anti-afk ou tout abus \(redstone, entités, ...\) visant à diminuer les performances du serveur sont interdits.
 
 ## Règle 6
 
-L'équipe de modération se réserve la possibilité après concertation d'exclure un joueur dont les valeurs ne reflètent pas celles de la communauté. L'équipe peut décider de manière libre l'application d'une sentence sur l'ensemble des serveurs de play-mc.fr
+L'équipe de modération se réserve la possibilité après concertation d'exclure un joueur dont les valeurs ne reflètent pas celles de la communauté. L'équipe peut décider de manière libre l'application d'une sentence sur l'ensemble des serveurs de Play-MC.fr.
 
 
 
