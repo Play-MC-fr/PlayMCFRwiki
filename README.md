@@ -2,7 +2,7 @@
 
 ## BONJOUR !
 
-Le staff et les joueurs de play-mc.fr vous souhaite la bienvenue !
+Le staff et les joueurs de Play-MC.fr vous souhaitent la bienvenue !
 
 Vous trouverez ici toutes les informations pour débuter de nouvelles aventures avec nous !
 
