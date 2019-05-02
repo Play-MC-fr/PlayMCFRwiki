@@ -9,7 +9,7 @@ Comme vous le savez, depuis quelques années, Mojang propose, selon un système 
 
 ## Un serveur snapshot grâce à qui ?
 
-Un serveur snapshot est toujours plus difficile à héberger car il implique une plus grande consommation des CPU et s’expose également aux difficultés liées aux instabilités des snapshots. Notre hébergeur MTXserver a néanmoins apprécié l’idée et a souhaité nous soutenir dans cette initiative.
+Un serveur snapshot est toujours plus difficile à héberger car il implique une plus grande consommation des CPU et s’expose également aux difficultés liées aux instabilités des snapshots. Notre hébergeur mTxServ a néanmoins apprécié l’idée et a souhaité nous soutenir dans cette initiative.
 
 ## Comment fonctionnera le serveur ?
 
@@ -27,7 +27,7 @@ Afin de pouvoir proposer l’ensemble des fonctions parfois nécessaires au test
 
 A vous de nous le dire ! l’idée principale est “l’expérience” et plus particulièrement le partage d'expérience ! N'hésitez pas à raconter vos découvertes, à poser des questions ou pointer du doigt des problèmes.
 
-## Mais du coup..., que puis-je ne pas faire sur le serveur snapshot ?
+## Mais du coup... Que puis-je ne pas faire sur le serveur snapshot ?
 
 Les règles du serveur créatif restent la base pour le serveur snapshot. Il s’agit à chacun de se rappeler qu’il s’agit d’un serveur test mis à disposition des joueurs. Éviter des abus, prévenir en cas de souci, respecter le jeu des autres sont des garanties pour le développement de cette initiative.
 
