@@ -6,7 +6,7 @@ Cette partie du tutoriel est disponible en vidéo \(réalisée par le joueur Cle
 
 {% embed url="https://www.youtube.com/embed/R3DS8IT8Cio" caption="" %}
 
-Et si vous préférez lire , c'est par ici :
+Et si vous préférez lire, c'est par ici :
 
 ## Le claim :
 
@@ -37,7 +37,7 @@ La protection du claim est effective de 5 blocs sous le coffre jusqu'au ciel. Ce
 ### Par défaut, dans vos zones, un joueur ne pourra pas :
 
 * Détruire et/ou brûler les blocs d’une manière ou d’une autre.
-* Ouvrir les coffres, fournaises, tables de craft, stand d’alchimie, table d’enchantement, portillon …
+* Ouvrir les coffres, fournaises, tables de craft, stands d’alchimie, tables d’enchantement, portillons…
 * Utiliser les boutons et les leviers.
 * Tuer, tondre vos animaux.
 * Récupérer l’eau.
@@ -76,10 +76,10 @@ Attention, l’utilisation du `/home` est bridée à une fois par demi-heure. De
 
 ## Commandes utiles :
 
-* `/t [pseudo] [message]` : Envoie un message privé à un joueur. \(fonctionne aussi avec: /w /msg /m\) 
-* `/r` : Réponds au dernier message privé. 
+* `/t [pseudo] [message]` : Envoie un message privé à un joueur. \(fonctionne aussi avec : /w /msg /m\) 
+* `/r` : Répond au dernier message privé. 
 * `/helpop [message]` : Demandez l'assistance des modérateurs en ligne actuellement. 
 * `/list` : Liste des joueurs en ligne. 
-* `/mail send [destinataire] [message]` : Envoi un mail à un joueur. Il pourra le lire plus tard et sera avertis lors de sa prochaine connection. \(contrairement aux messages privés\) 
-* `/suicide` : Vous téléporte au spawn , mais vous perdez évidemment inventaire et niveaux d'expérience.
+* `/mail send [destinataire] [message]` : Envoie un mail à un joueur. Il pourra le lire plus tard et sera averti lors de sa prochaine connexion. \(contrairement aux messages privés\) 
+* `/suicide` : Vous téléporte au spawn, mais vous perdez évidemment inventaire et niveaux d'expérience.
 
