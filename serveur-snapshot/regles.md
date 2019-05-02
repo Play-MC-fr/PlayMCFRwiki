@@ -4,12 +4,12 @@
 
 * Une argumentation est toujours plus intéressante qu’une insulte. Toute atteinte à la dignité d’autrui sera passible de sanctions. De plus, tout langage vulgaire sera sujet à censure et réprimande, même dans le cas d’une blague : humour n'est pas nécessairement égal à vulgarité. 
 * Tout message à caractère sexuel, discriminatoire, violent, xénophobe, haineux ou de dénégation sera supprimé, et l’auteur se verra sanctionné. De même, le spoil sera très sévèrement puni. 
-* Toute tentative de flamewar sera évidemment réprimandée et non tolérée. Vous devez savoir lorsque vous affichez un message pouvant attaquer autrui qu’une mauvaise réplique enchaînera une mauvaise ambiance à la discussion et au Discord.
-* Le serveur est francophone. Il est donc demandé d’y utiliser un langage français, compréhensible et, dans la mesure du possible, correctement orthographié. L’utilisation d’autres langues peut être punie par un avertissement. Le langage SMS n’étant pas considéré comme une langue, ni francophone, ni extra-terrestre, il est formellement interdit sur ce serveur.
+* Toute tentative de flamewar sera évidemment réprimandée et non tolérée. Vous devez savoir qu'envoyer une mauvaise réplique ou un message pouvant attaquer autrui entraînera une mauvaise ambiance à la discussion et au Discord.
+* Le serveur est francophone. Il est donc demandé d’y utiliser un langage français, compréhensible et, dans la mesure du possible, correctement orthographié. L’utilisation d’autres langues peut être punie par un avertissement. Le langage SMS n’étant pas considéré comme une langue, ni francophone, ni extraterrestre, il est formellement interdit sur ce serveur.
 
 ## Règle 2
 
-* La publicité et la vente est strictement interdite et sera sanctionnable d'un bannissement permanent.
+* La publicité et la vente sont strictement interdite et seront suivies d'un bannissement permanent.
 
 ## Règle 3
 
@@ -27,5 +27,5 @@
 ## Règle 6
 
 * L’équipe se réserve le droit de sanctionner tout individu dont l’attitude serait reconnue comme nuisible à l'ambiance du serveur. Tout troll pourra ou non être sanctionné, selon le jugement de la modération. De même, tout membre, toute discussion ou tout contenu pourra faire l’objet d’une sanction s’il est jugé comme étant néfaste pour la communauté ou le serveur.
-* L'équipe peut décider de manière libre l'application d'une sentence sur l'ensemble des serveurs de play-mc.fr
+* L'équipe peut décider de manière libre l'application d'une sentence sur l'ensemble des serveurs de Play-MC.fr
 
