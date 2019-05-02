@@ -41,7 +41,7 @@ Afin d’éviter les lags, vous êtes limités à 15 animaux de chaque espèce s
 
 ### Règle 10
 
-Le claim d’un joueur absent \(au bout d’1 mois si vide, sinon 2 mois\), peut être déclaim par un super-modérateur. L’anti-déclaim, c’est-à-dire le fait de se connecter uniquement pour conserver ses terrains peut être sanctionné par leur déclaim.
+Le claim d’un joueur absent \(au bout d’1 mois si vide, sinon 2 mois\), peut être déclaim par un super-modérateur. L’anti-déclaim, c’est-à-dire le fait de se connecter uniquement pour conserver ses terrains, peut être sanctionné par leur déclaim.
 
 ### Règle 11
 
@@ -49,25 +49,25 @@ Le pvp est activé dans le monde ressource. Le “spawnkill” est interdit. Le 
 
 ### Règle 12
 
-L'équipe de modération se réserve la possibilité après concertation d'exclure un joueur dont les valeurs ne reflètent pas celles de la communauté. L'équipe peut décider de manière libre l'application d'une sentence sur l'ensemble des serveurs de play-mc.fr
+L'équipe de modération se réserve la possibilité après concertation d'exclure un joueur dont les valeurs ne reflètent pas celles de la communauté. L'équipe peut décider de manière libre l'application d'une sentence sur l'ensemble des serveurs de Play-MC.fr
 
 ## Règles techniques et particularités
 
--Les systèmes “anti-AFK” sont interdits, la création de fermes à pêche est interdite car elles peuvent être utilisées comme anti-AFK.
+- Les systèmes “anti-AFK” sont interdits, la création de fermes à pêche est interdite car elles peuvent être utilisées comme anti-AFK.
 
--Les boucles de redstone sont interdites. Les blocs détecteurs et les BUD sont autorisés.
+- Les boucles de redstone sont interdites. Les blocs détecteurs et les BUD sont autorisés.
 
--Les systèmes automatisés sont interdits. Certains petits systèmes peuvent être tolérés : une limitation à 4 caractères pour les fermes a été mise en place \(ex : dans une ferme à canne à sucre, pas plus de 4 pousses, dans une ferme à poulets, pas plus de 4 poules pondeuses etc.\)
+- Les systèmes automatisés sont interdits. Certains petits systèmes peuvent être tolérés : une limitation à 4 caractères pour les fermes a été mise en place \(ex : dans une ferme à canne à sucre, pas plus de 4 pousses, dans une ferme à poulets, pas plus de 4 poules pondeuses etc.\)
 
--Les systèmes semi-automatisés sont autorisés.
+- Les systèmes semi-automatisés sont autorisés.
 
--Toute ferme ou salle à mobs est interdite. Certaines fermes spéciales uniques mises à la disposition de tout les joueurs sont tolérées \(sorcières, gardiens, endermen\).
+- Toute ferme ou salle à mobs est interdite. Certaines fermes spéciales uniques mises à la disposition de tous les joueurs sont tolérées \(sorcières, gardiens, endermen etc.\).
 
--L’aménagement de spawners est autorisé à condition de respecter les autres règles présentées ici.
+- L’aménagement de spawners est autorisé à condition de respecter les autres règles présentées ici.
 
--Tout système visant à tuer des entités est interdit.
+- Tout système visant à tuer des entités est interdit.
 
--Le rassemblement d’entités sur un unique bloc est interdit, mais toutefois autorisé s’il amène sur une zone de plusieurs blocs. \(ex : avec de l’eau\)
+- Le rassemblement d’entités sur un unique bloc est interdit, mais toutefois autorisé s’il amène sur une zone de plusieurs blocs. \(ex : avec de l’eau\)
 
--Un système qui serait susceptible de devenir source de lags peut être interdit. \(ex : trieurs dans les salles des coffres ou entités trop nombreuses\)
+- Un système qui serait susceptible de devenir source de lags peut être interdit. \(ex : trieurs dans les salles des coffres ou entités trop nombreuses\)
 
