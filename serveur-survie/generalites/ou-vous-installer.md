@@ -14,7 +14,7 @@ Si vous souhaitez vous installer en pleine nature, vous avez à disposition plus
 
 Ou encore, pour les plus téméraires, les passages rapides via le nether.
 
-![](../../.gitbook/assets/ressources5.jpg)
+![](https://play-mc.fr/img/spawn-nether.jpg)
 
 Le nether est totalement aménagé et très sécurisé. Il s’étend selon un plan précis et certaines règles :
 
