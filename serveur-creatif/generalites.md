@@ -1,7 +1,7 @@
 # Généralités
 
 {% hint style="info" %}
-Version actuelle : 1.13.2  
+Version actuelle : 1.14.4  
 IP : crea.play-mc.fr
 {% endhint %}
 

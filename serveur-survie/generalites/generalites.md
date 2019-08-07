@@ -3,7 +3,7 @@
 Notre serveur est un serveur au plus proche du Vanilla, c’est-à-dire brut de décoffrage et essentiellement sans mods ajoutés.
 
 {% hint style="info" %}
-Version actuelle : 1.13.2  
+Version actuelle : 1.14.4  
 IP : vanilla.play-mc.fr
 {% endhint %}
 

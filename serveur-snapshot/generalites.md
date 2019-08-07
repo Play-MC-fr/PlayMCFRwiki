@@ -1,7 +1,7 @@
 # Généralités
 
 {% hint style="info" %}
-Version actuelle : snapshot 1.14  
+Version actuelle : dernière snapshot en date !  
 IP : snapshot.play-mc.fr
 {% endhint %}
 
