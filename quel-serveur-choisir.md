@@ -17,7 +17,7 @@ Notre serveur **Créatif** quant à lui propose aux joueurs de disposer des outi
 
 {% page-ref page="serveur-creatif/generalites.md" %}
 
-Notre serveur **Snapshot** sera le serveur le plus vanilla de notre offre. Celui-ci est un peu particulier et est  mis à jour \(et reset\) à chaque sortie -généralement- hebdomadaire d'une snapshot Minecraft. Il vous donne l'occasion de de découvrir toutes les futures implémentations du jeu, mais en multijoueur ! A vous de choisir votre mode de jeu favori : créatif ou survie ?! Les informations complémentaires sont par ici : 
+Notre serveur **Snapshot** sera le serveur le plus vanilla de notre offre. Celui-ci est un peu particulier et est mis à jour \(et reset\) à chaque sortie -généralement- hebdomadaire d'une snapshot Minecraft. Il vous donne l'occasion de de découvrir toutes les futures implémentations du jeu, mais en multijoueur ! A vous de choisir votre mode de jeu favori : créatif ou survie ?! Les informations complémentaires sont par ici :
 
 {% page-ref page="serveur-snapshot/generalites.md" %}
 

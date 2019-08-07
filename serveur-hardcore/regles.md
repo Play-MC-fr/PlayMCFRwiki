@@ -6,7 +6,7 @@ Il est interdit d'utiliser le chat principal ou les messages privés pour y diff
 
 ## Règle 2
 
-Les systèmes de communication ne doivent pas être utilisés pour du spam, flood \(même dans le but de résoudre un éventuel problème\), troll ou pour lancer des débats inutiles. De même, le spoil sera très sévèrement puni. 
+Les systèmes de communication ne doivent pas être utilisés pour du spam, flood \(même dans le but de résoudre un éventuel problème\), troll ou pour lancer des débats inutiles. De même, le spoil sera très sévèrement puni.
 
 ## Règle 3
 
@@ -23,6 +23,4 @@ L'anti-afk ou tout abus \(redstone, entités, ...\) visant à diminuer les perfo
 ## Règle 6
 
 L'équipe de modération se réserve la possibilité après concertation d'exclure un joueur dont les valeurs ne reflètent pas celles de la communauté. L'équipe peut décider de manière libre l'application d'une sentence sur l'ensemble des serveurs de Play-MC.fr.
-
-
 

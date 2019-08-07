@@ -7,7 +7,6 @@
 
 * [Généralités](serveur-survie/generalites/README.md)
   * [Généralités](serveur-survie/generalites/generalites.md)
-  * [Règles](serveur-survie/generalites/regles.md)
   * [Acquérir vos premières ressources](serveur-survie/generalites/acquerir-vos-premieres-ressources.md)
   * [Où vous installer](serveur-survie/generalites/ou-vous-installer.md)
   * [Protéger votre terrain](serveur-survie/generalites/proteger-votre-terrain.md)
