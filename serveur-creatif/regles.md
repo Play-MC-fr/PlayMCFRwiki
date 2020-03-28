@@ -40,7 +40,3 @@ Afin d’éviter les lags, vous êtes limités pour le moment à 15 animaux de c
 
 Le claim d’un joueur absent \(au bout d’1 mois si vide, sinon 2 mois\), peut être déclaim par un modérateur. L’anti-déclaim, c’est-à-dire le fait de se connecter uniquement pour conserver ses terrains, peut être sanctionné par leur déclaim.
 
-## Règle 11
-
-L'équipe de modération se réserve la possibilité après concertation d'exclure un joueur dont les valeurs ne reflètent pas celles de la communauté. L'équipe peut décider de manière libre l'application d'une sentence sur l'ensemble des serveurs de Play-MC.fr.
-
