@@ -47,10 +47,6 @@ Le claim d’un joueur absent \(au bout d’1 mois si vide, sinon 2 mois\), peut
 
 Le pvp est activé dans le monde ressource. Le “spawnkill” est interdit. Le kill d’une personne à répétition peut être puni.
 
-### Règle 12
-
-L'équipe de modération se réserve la possibilité après concertation d'exclure un joueur dont les valeurs ne reflètent pas celles de la communauté. L'équipe peut décider de manière libre l'application d'une sentence sur l'ensemble des serveurs de Play-MC.fr
-
 ## Règles techniques et particularités
 
 * Les systèmes “anti-AFK” sont interdits, la création de fermes à pêche est interdite car elles peuvent être utilisées comme anti-AFK.
