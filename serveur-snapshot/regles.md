@@ -20,12 +20,3 @@
 
 * Respectez le paysage de nos belles snapshots.
 
-## Règle 5
-
-* La loi française, par l’intermédiaire d’HADOPI, interdit le piratage et l’usage pouvant en être fait. Le Discord de Minecraft-France étant public, il est interdit de faire promotion de l’usage d’une telle version. A cette interdiction s’ajoute le principe que “Tolérer c’est encourager”. Ainsi, tout serveur ou projet acceptant l’utilisation de ces versions sera considéré comme incitant à leur utilisation. Il sera supprimé et son auteur sera sanctionné. Toute personne indiquant qu’elle utilise une version illégale ne sera pas sanctionnée mais ses contenus pourront être supprimés et tout support pourra lui être refusé.
-
-## Règle 6
-
-* L’équipe se réserve le droit de sanctionner tout individu dont l’attitude serait reconnue comme nuisible à l'ambiance du serveur. Tout troll pourra ou non être sanctionné, selon le jugement de la modération. De même, tout membre, toute discussion ou tout contenu pourra faire l’objet d’une sanction s’il est jugé comme étant néfaste pour la communauté ou le serveur.
-* L'équipe peut décider de manière libre l'application d'une sentence sur l'ensemble des serveurs de Play-MC.fr
-

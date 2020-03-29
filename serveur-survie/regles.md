@@ -59,3 +59,8 @@ Le pvp est activé dans le monde ressource. Le “spawnkill” est interdit. Le 
 * Le rassemblement d’entités sur un unique bloc est interdit, mais toutefois autorisé s’il amène sur une zone de plusieurs blocs. \(ex : avec de l’eau\)
 * Un système qui serait susceptible de devenir source de lags peut être interdit. \(ex : trieurs dans les salles des coffres ou entités trop nombreuses\)
 
+## Informations
+
+* La fonction "message privé" en jeu, via /m ou /mp, n’exclut pas que vos échanges soient visible par des modérateurs. Ces échanges resteront évidemment privés mais vous pourrez être sanctionné de la même manière que pour des propos désobligeants dans le chat public. 
+* Les modérateurs possèdent par ailleurs la capacité de se téléporter à vous de manière invisible afin de contrôler votre environnement et le respect de nos règles.
+
