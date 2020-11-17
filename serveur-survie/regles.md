@@ -51,7 +51,7 @@ Le pvp est activé dans le monde ressource. Le “spawnkill” est interdit. Le 
 
 * Les systèmes “anti-AFK” sont interdits, la création de fermes à pêche est interdite car elles peuvent être utilisées comme anti-AFK.
 * Les boucles de redstone sont interdites. Les blocs détecteurs et les BUD sont autorisés.
-* Les systèmes automatisés sont interdits. Certains petits systèmes peuvent être tolérés : une limitation à 4 caractères pour les fermes a été mise en place \(ex : dans une ferme à canne à sucre, pas plus de 4 pousses, dans une ferme à poulets, pas plus de 4 poules pondeuses etc.\)
+* Les systèmes automatisés sont interdits. Certains petits systèmes peuvent être tolérés : une limitation à 6 caractères pour les fermes a été mise en place \(ex : dans une ferme à canne à sucre, pas plus de 6 pousses, dans une ferme à poulets, pas plus de 6 poules pondeuses etc.\)
 * Les systèmes semi-automatisés sont autorisés.
 * Toute ferme ou salle à mobs est interdite. Certaines fermes spéciales uniques mises à la disposition de tous les joueurs sont tolérées \(sorcières, gardiens, endermen etc.\).
 * L’aménagement de spawners est autorisé à condition de respecter les autres règles présentées ici.
